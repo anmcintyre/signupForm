@@ -1,0 +1,31 @@
+.brand-logo{
+	background-image: url('acme.png');
+	width: 200px;
+	height: 300px;
+	border: 1px solid black;
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-size: contain;
+	float: left;
+}
+
+#formElementSpan{
+	float: left;
+	width: 25em;	
+	padding: 2em;	
+}
+
+#formElementSpan input{
+	margin-right: 5px;
+	margin-bottom: 10px;
+}
+
+footer{
+	width: 100%;
+	/* border: 1px solid black; */
+	/* display: block; */
+	margin: 2px;
+	height: 5em;
+	text-align: center;
+	padding-top: 2em;
+}
